@@ -27,7 +27,7 @@ This repository presents a comprehensive solution for achieving super-resolution
 
 These are a few sample images of Ductal Carcinoma and their corresponding model output tissue samples.
 
-    The primary objective of this project is to enhance the resolution of low-resolution histopathological images sampled from an ordinary lens microscope, to generate an electron microscope equivalent zoomed high resolution sample, saving cost, man power and boosting efficiency. By employing our own SR3 diffusion model, the system aims to reconstruct high-resolution images from their lower-resolution counterparts, preserving intricate tissue details.
+  The primary objective of this project is to enhance the resolution of low-resolution histopathological images sampled from an ordinary lens microscope, to generate an electron microscope equivalent zoomed high resolution sample, saving cost, man power and boosting efficiency. By employing our own SR3 diffusion model, the system aims to reconstruct high-resolution images from their lower-resolution counterparts, preserving intricate tissue details.
 
 Beyond the core super-resolution model, this project also integrates a **Graphical User Interface (GUI) application** built with tkinter. This GUI allows users to:
 
